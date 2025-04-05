@@ -1,0 +1,40 @@
+{
+  "authors": [
+    "mikegehard"
+  ],
+  "contributors": [
+    "alebaffa",
+    "bitfield",
+    "ekingery",
+    "ferhatelmas",
+    "hilary",
+    "kytrinyx",
+    "leenipper",
+    "nathany",
+    "petertseng",
+    "rmetzler",
+    "robphoenix",
+    "sebito91",
+    "strangeman",
+    "tleen",
+    "tompao",
+    "eklatzer"
+  ],
+  "files": {
+    "solution": [
+      "etl.go"
+    ],
+    "test": [
+      "etl_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "invalidator": [
+      "go.mod"
+    ]
+  },
+  "blurb": "Change the data format for scoring a game to more easily add other languages.",
+  "source": "Based on an exercise by the JumpstartLab team for students at The Turing School of Software and Design.",
+  "source_url": "https://turing.edu"
+}
