@@ -1,0 +1,37 @@
+{
+  "authors": [
+    "erizocosmico"
+  ],
+  "contributors": [
+    "alebaffa",
+    "bitfield",
+    "ekingery",
+    "ferhatelmas",
+    "hilary",
+    "leenipper",
+    "ngochai94",
+    "petertseng",
+    "robphoenix",
+    "sebito91",
+    "tleen",
+    "eklatzer"
+  ],
+  "files": {
+    "solution": [
+      "all_your_base.go"
+    ],
+    "test": [
+      "all_your_base_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "editor": [
+      "cases_test.go"
+    ],
+    "invalidator": [
+      "go.mod"
+    ]
+  },
+  "blurb": "Convert a number, represented as a sequence of digits in one base, to any other base."
+}
