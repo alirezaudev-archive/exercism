@@ -1,0 +1,34 @@
+{
+  "authors": [
+    "ferhatelmas"
+  ],
+  "contributors": [
+    "bitfield",
+    "Daveed9",
+    "ekingery",
+    "hilary",
+    "leenipper",
+    "sebito91",
+    "eklatzer"
+  ],
+  "files": {
+    "solution": [
+      "flatten_array.go"
+    ],
+    "test": [
+      "flatten_array_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "editor": [
+      "cases_test.go"
+    ],
+    "invalidator": [
+      "go.mod"
+    ]
+  },
+  "blurb": "Take a nested list and return a single list with all values except nil/null.",
+  "source": "Interview Question",
+  "source_url": "https://reference.wolfram.com/language/ref/Flatten.html"
+}
