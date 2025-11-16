@@ -1,0 +1,36 @@
+{
+  "authors": [
+    "soniakeys"
+  ],
+  "contributors": [
+    "alebaffa",
+    "bitfield",
+    "ekingery",
+    "ferhatelmas",
+    "hilary",
+    "kytrinyx",
+    "leenipper",
+    "petertseng",
+    "robphoenix",
+    "sebito91",
+    "tleen",
+    "eklatzer"
+  ],
+  "files": {
+    "solution": [
+      "pascals_triangle.go"
+    ],
+    "test": [
+      "pascals_triangle_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "invalidator": [
+      "go.mod"
+    ]
+  },
+  "blurb": "Compute Pascal's triangle up to a given number of rows.",
+  "source": "Pascal's Triangle at Wolfram Math World",
+  "source_url": "https://www.wolframalpha.com/input/?i=Pascal%27s+triangle"
+}
