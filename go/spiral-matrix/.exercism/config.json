@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "magic003"
+  ],
+  "contributors": [
+    "bitfield",
+    "ekingery",
+    "ferhatelmas",
+    "hilary",
+    "leenipper",
+    "sebito91",
+    "eklatzer"
+  ],
+  "files": {
+    "solution": [
+      "spiral_matrix.go"
+    ],
+    "test": [
+      "spiral_matrix_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "invalidator": [
+      "go.mod"
+    ]
+  },
+  "blurb": "Given the size, return a square matrix of numbers in spiral order.",
+  "source": "Reddit r/dailyprogrammer challenge #320 [Easy] Spiral Ascension.",
+  "source_url": "https://web.archive.org/web/20230607064729/https://old.reddit.com/r/dailyprogrammer/comments/6i60lr/20170619_challenge_320_easy_spiral_ascension/"
+}
