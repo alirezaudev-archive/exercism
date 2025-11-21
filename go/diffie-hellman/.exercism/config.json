@@ -1,0 +1,36 @@
+{
+  "authors": [
+    "soniakeys"
+  ],
+  "contributors": [
+    "alebaffa",
+    "antimatter96",
+    "bitfield",
+    "ekingery",
+    "ferhatelmas",
+    "hilary",
+    "kytrinyx",
+    "leenipper",
+    "petertseng",
+    "robphoenix",
+    "sebito91",
+    "tleen"
+  ],
+  "files": {
+    "solution": [
+      "diffie_hellman.go"
+    ],
+    "test": [
+      "diffie_hellman_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "invalidator": [
+      "go.mod"
+    ]
+  },
+  "blurb": "Diffie-Hellman key exchange.",
+  "source": "Wikipedia, 1024 bit key from www.cryptopp.com/wiki.",
+  "source_url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange"
+}
