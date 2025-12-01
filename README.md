@@ -56,8 +56,9 @@
       <small>Completed the "Bob" exercise</small>
     </td>
     <td align="center" width="220">
-      <strong> COMING SOON </strong>
-      &nbsp;
+      <img src="https://assets.exercism.org/assets/icons/completer-b8c8c5707b4d3a0b8b9e933ae221a9547e58cd0e.svg" width="70" alt="Completer"><br>
+      <strong>Completer</strong><br>
+      <small>Completed all exercises in a track</small>
     </td>
   </tr>
 </table>
@@ -86,6 +87,10 @@
     <td align="center" width="150">
       <img src="https://assets.exercism.org/assets/graphics/trophy-completed-learning-mode-4cd4f0b719b618b4d3c8423f7479351a0ea24246.svg" width="100" alt="Fundamental"><br>
       <small><strong>Fundamental</strong></small>
+    </td>
+    <td align="center" width="150">
+      <img src="https://assets.exercism.org/assets/graphics/trophy-completed-all-exercises-e03039406912cb06ebe007067327371cd3d47614.svg" width="100" alt="Exemplary Expert"><br>
+      <small><strong>Exemplary Expert</strong></small>
     </td>
   </tr>
 </table>
